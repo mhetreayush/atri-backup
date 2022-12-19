@@ -1,0 +1,62 @@
+{
+  "about.png": {
+    "mime": "image/png"
+  },
+  "arrow.png": {
+    "mime": "image/png"
+  },
+  "exp1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "exp2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "exp3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "gradient.png": {
+    "mime": "image/png"
+  },
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo1.png": {
+    "mime": "image/png"
+  },
+  "logo2.png": {
+    "mime": "image/png"
+  },
+  "logo3.png": {
+    "mime": "image/png"
+  },
+  "logo4.png": {
+    "mime": "image/png"
+  },
+  "logoWhite.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail.svg": {
+    "mime": "image/svg+xml"
+  },
+  "profile.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "projects.png": {
+    "mime": "image/png"
+  },
+  "quotes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "services1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "services2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "services3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "testimonial1.png": {
+    "mime": "image/png"
+  }
+}
